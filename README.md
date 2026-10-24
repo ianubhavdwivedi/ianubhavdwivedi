@@ -1,16 +1,29 @@
-## Hi there 👋
+# Anubhav Dwivedi
 
-<!--
-**ianubhavdwivedi/ianubhavdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & CEO at KIHMT Tech Labs
 
-Here are some ideas to get you started:
+I am a technology entrepreneur focused on Artificial Intelligence, software engineering, web development, automation, and digital innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As Founder & CEO of KIHMT Tech Labs, I am focused on building practical, scalable, and intelligent digital solutions for businesses worldwide.
+
+## Areas of Focus
+
+- Artificial Intelligence and Machine Learning
+- Software and Web Development
+- Automation and Intelligent Tools
+- Digital Products and Technology Innovation
+- Open-Source Projects
+
+## Organization
+
+**KIHMT Tech Labs**
+
+Explore our technology initiatives and projects on GitHub.
+
+## Current Focus
+
+Building technology-driven solutions, exploring emerging AI capabilities, and developing innovative digital products.
+
+---
+
+*Technology. Innovation. Global Impact.*
